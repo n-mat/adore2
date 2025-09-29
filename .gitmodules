@@ -105,3 +105,7 @@
 [submodule "tools/adore_model_checker"]
 	path = vendor/adore_model_checker
 	url = git@github.com:DLR-TS/adore_model_checker.git
+[submodule "ros2_workspace/src/rplidar_ros"]
+	path = ros2_workspace/src/rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros.git
+	branch = ros2
